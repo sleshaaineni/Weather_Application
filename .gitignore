@@ -1,2 +1,9 @@
-node_modules/
-package-lock.json
+# Compiled class files
+*.class
+/com/
+
+# CSV data file
+weather_data.csv
+
+# lib directory
+/lib/
