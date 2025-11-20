@@ -1,0 +1,4 @@
+Weather Information Dashboard
+Description: Create a GUI app that lets users manually input temperature and
+weather data (since no APIs), and visualize them on charts or tables. Use file
+handling to save daily weather logs.

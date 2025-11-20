@@ -1,0 +1,14 @@
+Here are 10 clear requirements for your Weather Information Dashboard project:
+
+100)User Input Form: Create a GUI with text fields where users can manually enter date, temperature (in °C or °F), humidity percentage, and weather condition (sunny, rainy, cloudy, etc.)
+200)Data Storage: Save all entered weather records to a text file or CSV file so the data persists even after closing the application
+300)Display Weather Logs: Show all saved weather entries in a table format (JTable) with columns for date, temperature, humidity, and weather condition
+400)Data Visualization: Create at least one chart (line chart or bar chart) that displays temperature trends over time using the saved data
+500)Add Entry Button: Implement a button that validates and saves the manually entered weather data to both the file and the displayed table
+600)Load Previous Data: When the app starts, automatically load and display all previously saved weather records from the file
+700)Clear/Delete Function: Allow users to clear all entries or delete specific weather records from both the table and the file
+800)Input Validation: Ensure temperature values are numeric, dates are in correct format (DD-MM-YYYY), and required fields aren't empty before saving
+900)Statistics Display: Show simple statistics like average temperature, highest/lowest temperature, and most common weather condition from saved data
+1000)User-Friendly Layout: Organize the GUI with separate panels for input form (top), data table (middle), and chart visualization (bottom) using Java Swing components like JFrame, JPanel, and JButton
+
+In essence: You're building a manual weather diary app where users type in daily weather info, see it displayed in a table and chart, and have it saved to a file for future viewing!
